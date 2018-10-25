@@ -27,9 +27,9 @@ var annotation = {
 }
 
 var annotations = [
-  { annotation: annotation, "title": "Donlad trump is kinda funny", "time": 1450754160000, text: "teeext", tags: "taaags" },
-  { annotation: annotation, "title": "Wow he really won", "time": 1450754160000, text: "teeext", tags: "taaags" },
-  { annotation: annotation, "title": "When is the next ", "time": 1450754160000, text: "teeext", tags: "taaags" }
+  { annotation: annotation, "title": "Donald trump is kinda funny", "time": 1450754160000, text: "teeext", tags: ["taaags", "taaaaaags", "TAAAAAAAAAGS"] },
+  { annotation: annotation, "title": "Wow he really won", "time": 1450754160000, text: "teeext", tags: ["taaags", "taaaaaags", "TAAAAAAAAAGS"] },
+  { annotation: annotation, "title": "When is the next election", "time": 1450754160000, text: "teeext", tags: ["taaags", "taaaaaags", "TAAAAAAAAAGS"] }
 ];
 
 var tagKeys = [
